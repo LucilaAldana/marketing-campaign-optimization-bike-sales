@@ -1,6 +1,6 @@
 ### marketing-campaign-optimization-bike-sales
 
-# Global Income & Cost of Living Trends 2024 (USD)
+# Optimizing Bike Sales Through Targeted Advertising
 
 ## by Lucila Aldana Quiñonez | Data Analyst
 
