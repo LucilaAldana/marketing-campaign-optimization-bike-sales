@@ -1,4 +1,9 @@
-# marketing-campaign-optimization-bike-sales
+### marketing-campaign-optimization-bike-sales
+
+# Global Income & Cost of Living Trends 2024 (USD)
+
+## by Lucila Aldana Quiñonez | Data Analyst
+
 This project analyzes customer and lead data to optimize advertising strategy for a motorbike company experiencing high outreach but underperforming conversions.
 
 The objective was to identify high-value customer segments across three regions (North America, Europe, and Pacific) and provide data-driven recommendations to improve marketing efficiency and budget allocation.
