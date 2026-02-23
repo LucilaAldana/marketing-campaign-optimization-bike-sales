@@ -2,7 +2,7 @@
 
 # Optimizing Bike Sales Through Targeted Advertising
 
-## by Lucila Aldana Quiñonez | Data Analyst
+## by Lucila Aldana Quiñonez | Marketing Data Analyst
 
 This project analyzes customer and lead data to optimize advertising strategy for a motorbike company experiencing high outreach but underperforming conversions.
 
