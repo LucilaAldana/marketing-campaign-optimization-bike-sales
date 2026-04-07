@@ -36,4 +36,4 @@ The project concludes with targeted marketing recommendations and measurable KPI
 
 This analysis simulates a real-world marketing optimization scenario where customer segmentation is leveraged to improve acquisition efficiency and strategic decision-making.
 
-Tools Used: Excel / Data Visualization / Segmentation Analysis / Cross-variable Analysis
+Tools Used: Excel / Generative AI / Data Visualization / Segmentation Analysis / Cross-variable Analysis
